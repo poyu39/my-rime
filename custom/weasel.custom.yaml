@@ -1,0 +1,18 @@
+patch:
+  style/font_point: 12
+  style/label_font_point: 12
+  style/color_scheme: poyu39
+  
+  preset_color_schemes:
+    poyu39:
+      name: "葡萄柚／poyu39"
+      author: "poyu39"
+      text_color: 0x592048
+      back_color: 0xE4DEDF
+      border_color: 0x658C71
+      candidate_text_color: 0x592048
+      comment_text_color: 0xFFFFFF
+      hilited_back_color: 0x658C71
+      hilited_candidate_back_color: 0x658C71
+      hilited_candidate_text_color: 0xE4DEDF
+      hilited_text_color: 0xE4DEDF

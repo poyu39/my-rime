@@ -1,0 +1,10 @@
+patch:
+  menu/page_size: 9
+  
+  switcher/hotkeys:
+    - Control+grave
+  
+  schema_list:
+    - schema: bopomofo_tw
+  
+  ascii_composer/switch_key/Shift_L: noop   # 關閉左 Shift 鍵切換
